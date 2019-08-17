@@ -19,7 +19,6 @@ Full source code available at [https://github.com/angularexample/angular-8-minim
   * [How To Install](#how-to-install)
   * [How To Run](#how-to-run)
 - [Software Libraries Used](#software-libraries-used)
-- [What Is Not Included](#what-is-not-included)
 - [See My Other Angular Examples](#see-my-other-angular-examples)
 
 ## About The Author

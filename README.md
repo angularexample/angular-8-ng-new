@@ -68,11 +68,8 @@ The following software libraries are used:
 ```text
 Angular 8.2.2
 Angular Router
-Angular Http
 SCSS
 ```
-
-Note: Angular Http is version 7, which is still the latest version, since version 8 has not yet been released.
 
 The ```package.json``` is set to stay with all of the same minor versions, but many of the non-angular packages can actually be upgraded without breaking anything.
 So feel free to try that.
